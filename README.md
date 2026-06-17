@@ -1,5 +1,27 @@
 # Smart Neonatal Incubator Monitoring and Temperature Control System
 
+## 📂Repository Structure
+
+```text
+Smart-Neonatal-Incubator-Monitoring-System/
+│
+├── README.md
+├── Arduino_Code/
+│   └── neonatal_incubator.ino
+│
+├── Report/
+│   └── Smart_Neonatal_Incubator_Report.pdf
+│
+├── Images/
+│   ├── circuit_diagram.png
+│   ├── normal_condition.png
+│   ├── fan_on_condition.png
+│   └── danger_condition.png
+│
+└── Tinkercad_Link.txt
+```
+
+
 ## Overview
 
 The Smart Neonatal Incubator Monitoring and Temperature Control System is a biomedical embedded systems project designed to monitor and regulate incubator temperature for premature and newborn infants.
@@ -27,7 +49,7 @@ An automated monitoring system is therefore required to:
 
 Neonatal incubators are specialized medical devices used to provide a controlled environment for premature and newborn babies. Premature infants have underdeveloped temperature regulation mechanisms, making them highly vulnerable to temperature fluctuations.
 
-The normal body temperature of a healthy newborn infant ranges from **36.5°C to 37.5°C**. Any deviation from this range can result in serious health complications.
+The normal body temperature of a healthy newborn infant ranges from **36.5°C to 37°C**. Any deviation from this range can result in serious health complications.
 
 This project provides an embedded-system-based solution to monitor incubator temperature and automatically activate cooling and alert systems when required.
 
