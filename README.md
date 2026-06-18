@@ -5,7 +5,7 @@
 ```text
 Smart-Neonatal-Incubator-Monitoring-System/
 │
-├── README.md -->(Circuit connections are given)
+├── README.md --> Overview and Circuit connections
 ├── Arduino_Code/
 │   └── neonatal_incubator.ino
 │
