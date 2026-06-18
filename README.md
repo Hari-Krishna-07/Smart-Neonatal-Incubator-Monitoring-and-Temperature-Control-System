@@ -9,9 +9,6 @@ Smart-Neonatal-Incubator-Monitoring-System/
 ├── Arduino_Code/
 │   └── neonatal_incubator.ino
 │
-├── Report/
-│   └── Smart_Neonatal_Incubator_Report.pdf
-│
 ├── Images/
 │   ├── circuit_diagram.png
 │   ├── normal_condition.png
